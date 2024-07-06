@@ -1,0 +1,2 @@
+An application that compares a resume with a job description and calculates the probability of the resume passing a job screening system. The application generates results using Google's Gemini LLM model.
+https://hub.docker.com/r/abhinav0/hr-resume-app
