@@ -2,8 +2,7 @@
 
 <hr style="border:2px solid red">
 
-
-A result-oriented Product leader with 10+ years of combined Product Management and Engineering experience and a proven track record of addressing customer requirements by shipping multiple products at scale. Took numerous products from inception to shipping (0-1).
+I am a result-oriented Product leader with combined Product Management and Engineering experience and a proven track record of addressing customer requirements by shipping multiple products at scale. I have taken numerous products from inception to shipping (0-1).
 
 Shipped products in the following technical domains: Analytics Data Platform, Big Data Services, Observability, Real-time Big Data Storage, Query & Processing Systems, Streaming Applications, Web Services (JAX-RS REST APIs, OAuth2), Fintech Applications, Microservices, Multi-Tenant Cloud Services (hyperscalers), and Low Latency Systems
 
